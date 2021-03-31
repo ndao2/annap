@@ -1,0 +1,116 @@
+@charset "utf-8"
+
+body { 
+	font-family: 'Kiwi Maru', serif;
+	background: url(img/background.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 1000px;
+	margin-top: 40px;
+	text-align: center;
+
+ }
+
+* {margin: 0px;
+   padding: 0px }
+
+ #nav { 
+ 	background: pink;
+ 	width: 100%;
+ 	height: 62px;
+ 	line-height: 60px;
+
+  }
+
+ #nav h1 { 
+ 	float: left;
+ 	font-family: 'Abril Fatface', cursive;
+ 	color: black;
+ }
+
+ #nav h1 a { 
+ 	text-decoration: none;
+ 	color: black;
+ 	margin-left: 25px;
+
+  }
+
+ #nav ul { 
+ 	float: right;
+
+  }
+
+ #nav ul li { 
+ 	text-decoration: none;
+ 	list-style-type: none;
+ 	display: inline-block;
+
+
+  }
+
+ #nav ul li a {
+ 	font-family: 'Kiwi Maru', serif;
+ 	text-decoration: none;
+ 	color: black;
+ 	padding: 70px;
+
+ }
+
+ #nav ul li :hover { 
+ 	background: pink;
+ 	transition: all ease-in-out 0.40s;
+ }
+
+
+
+
+ }
+#anna { 
+	background: pink; 
+}
+
+
+
+#anna1 { 
+	background: pink; 
+	height: 5px;
+
+}
+
+#anna2 { 
+	background: url(img/background.png) no-repeat;
+	width: 100%;
+	height: 1000px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
